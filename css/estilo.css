@@ -1,0 +1,23 @@
+html,
+body {
+    height:100%;
+    background: url(https://cdn.cloudflare.steamstatic.com/steam/apps/730/page_bg_generated_v6b.jpg?t=1696513856) top center;
+}
+.bg-black {
+    background-color: #000;
+}
+.headers-principais{
+    font-family: 'PT Sans';
+    color: #cbcbcb;
+}
+#main {
+    /* display: flex; */
+    /* background: url(https://cdn.cloudflare.steamstatic.com/steam/apps/730/page_bg_generated_v6b.jpg?t=1696513856) top center; */
+}
+.img-membro {
+    height: 80px;
+}
+.div-membro:hover {
+    /* height: 100px; */
+    transform: scale(1.5);
+}
